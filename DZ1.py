@@ -5,6 +5,6 @@ def pal(word):
     else:
         print('False')
 
-pal('яемзмея')
+pal('fddf')
 
 
